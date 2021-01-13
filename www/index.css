@@ -1,0 +1,127 @@
+html {
+  font-size: 62.5%;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.05rem;
+}
+
+body {
+  color: darkslategrey;
+  font-size: 1.6rem;
+  margin: 0 10vw;
+}
+
+header {
+  border-bottom: 0.1rem solid rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 4rem 0 1rem;
+  padding-bottom: 1rem;
+}
+header a {
+  color: darkslategrey;
+  text-decoration: none;
+}
+
+footer {
+  border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+  margin: 2rem 0;
+  padding-top: 2rem;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.posts .post {
+  border: 0.1rem solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+.posts .post:last-child {
+  padding-bottom: 2rem;
+}
+.posts .post_hero {
+  background-color: rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  display: block;
+  max-height: 35rem;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+}
+.posts .post_image {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  max-height: 33rem;
+}
+.posts .post_title {
+  display: block;
+  padding: 2rem 2rem 1rem;
+  text-decoration: none;
+}
+.posts .post_title:visited {
+  color: darkslategrey;
+}
+.posts .post_title:hover {
+  text-decoration: underline;
+}
+.posts .post_pubDate {
+  display: block;
+  font-size: 1.4rem;
+  padding: 0 2rem 1rem;
+}
+
+.post_tags {
+  padding: 0 2rem 1rem;
+}
+
+.tags {
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.post_tags, .tags {
+  font-size: 1.2rem;
+}
+.post_tags li, .tags li {
+  border: 0.1rem solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  display: inline-block;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.post_text {
+  margin: 2rem 0;
+}
+
+main {
+  margin-top: 2rem;
+}
+main .post_image {
+  width: 100%;
+}
+
+.post_picture {
+  margin: 0;
+  padding: 0;
+}
+
+.post_image_caption {
+  font-size: 1.2rem;
+  font-style: italic;
+  text-align: center;
+}
+
+.post_video {
+  display: block;
+  height: 50vw;
+  margin: 0 auto;
+  width: 80vw;
+}
+
+/*# sourceMappingURL=index.css.map */

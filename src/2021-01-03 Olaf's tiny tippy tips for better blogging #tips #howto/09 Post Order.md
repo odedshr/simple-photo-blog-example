@@ -1,0 +1,1 @@
+And lastly, by default the posts are ordered by default in an ascending order (meaning old posts appear at the top) but you can simply reverse the order by updating the "`blog-configure.yaml`" file setting "`order`" to "`descending`".

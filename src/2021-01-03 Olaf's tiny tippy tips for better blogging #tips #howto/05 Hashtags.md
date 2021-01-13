@@ -1,0 +1,1 @@
+The second trick is that you can add hashtags at the end of title and they'll appear as such.Hashtags are single words starting with "`#`" (for example "`#cool`").

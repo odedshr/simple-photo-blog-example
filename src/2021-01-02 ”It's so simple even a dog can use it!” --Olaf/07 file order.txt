@@ -1,0 +1,2 @@
+
+The alphabetical order of the files makes a difference as this is the order of the different elements (photos, text and videos) will appear.Photo's filename is used as their ALTernative text, however if the name starts with a number (that is used for ordering) it will be omitted from the image's description.

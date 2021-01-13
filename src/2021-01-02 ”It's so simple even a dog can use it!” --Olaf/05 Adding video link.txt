@@ -1,0 +1,1 @@
+Or if you have the file on a different website (such as vimeo or youtube) you can paste the link in a file with the name ending with ".video.txt" and the video will appear in the post.

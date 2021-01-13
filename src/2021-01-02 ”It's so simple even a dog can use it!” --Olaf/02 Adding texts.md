@@ -1,0 +1,1 @@
+Adding text to a post is also very easy. Simply add a text file (with the extension .txt) to the folder and run the upload to compile the new post.Similarly you can add *HTML* files and *MarkDown* (.md) files if you want more control of the text's style.

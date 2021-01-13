@@ -1,0 +1,1 @@
+In addition to the image ALT text you can also add a caption, by creating a text (or HTML or MD) with exactly the same name. for example for the photo "`hunting.jpg`" the caption would be "`hunting.jpg.txt`" 

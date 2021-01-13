@@ -1,0 +1,5 @@
+This is Olaf.
+He is a cat.
+Like most cats, Olaf believes he's entitled to his own photo blog;
+But this might sound tricky because Olaf doesn't have any thumbs, and he doesn't know anything about web development, but it really isn't.
+To Create a new post for his blog, Olaf simply puts all the photos in a folder and double-clicks the upload command and that's it - a new post is available online for Olaf's fans to indulge.
