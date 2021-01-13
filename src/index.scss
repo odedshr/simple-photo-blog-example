@@ -42,7 +42,8 @@ ul {
     border: 0.1rem solid $clr-border;
     border-radius: 0.5rem;
     padding: 0;
-    margin-bottom: 2rem;
+    margin: 0 auto 5rem;
+    max-width: 40rem;
 
     &:last-child {
       padding-bottom: 2rem;
@@ -119,7 +120,8 @@ main {
 
   
   .post_image {
-    width: 100%;
+    display: block;
+    margin: 0 auto;
   }
 }
 .post_picture {
