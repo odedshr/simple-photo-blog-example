@@ -1,5 +1,5 @@
 source: src
-target: www
+target: docs
 indexTemplate: src/index-template.html
 postTemplate: src/post-template.html
 order: ascending

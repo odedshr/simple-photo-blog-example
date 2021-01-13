@@ -4,7 +4,7 @@
   "description": "A simple example and tutorial to showcase my simple-photo-blog",
   "main": "index.js",
   "scripts": {
-    "style": "sass --watch ./src/index.scss:./www/index.css ",
+    "style": "sass --watch ./src/index.scss:./docs/index.css ",
     "upload": "upload-blog"
   },
   "repository": {
